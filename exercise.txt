@@ -1,0 +1,105 @@
+
+PROCESS DOCUMENT FOR THE DEVELOPMENT AND INTEGRATION OF NEW FEATURES IN TECHNICAL COMPANY
+
+PURPOSE
+This document is a standardized procedure for developing new features for the software of the company, and adherence to best practices to enhance its efficiency and productivity in the technical field.
+
+
+APPROVAL TABLE
+
+Version	    Date	  Name	                                     Designation
+1.0	    24-01-16	  Navjot Kaur (chohan.navjot@mitt.ca)	     Author
+1.1	    24-01-20	  Joseph Adoga (adoga.joseph@mitt.ca)	     Reviewer
+1.2	    24-01-21	  Jorawar Singh (singh.jorawar@mitt.ca)      Approver
+
+
+SCOPE AND OBJECTIVES
+The document outlines a simple and understandable approach to the creation of new features and their integration with the current system. It includes detailed steps for:
+     1. Requirements gathering
+     2. Creating feature branches
+     3. Writing unit tests 
+     4. Conducting code reviews
+     5. Merging changes into the main codebase
+
+
+ACCOUNTABILITY MATRIX
+Task/Steps	Responsible Person/Team	Contact	Review/Approval
+Requirements gathering	Business Architect	225-678-0120	IT Manager
+Creating feature branches		Software Architect	664-097-3679	IT Ops Manager
+Writing unit tests		Software Developer 	600-123-2244	IT Manager
+Conducting code reviews		System Administrator		441-678-9876	QA Manager
+Merging changes into the main codebase	Deployment Team	431-245-0909	IT Manager
+
+Documentation of Virtual Machine		Documentation Team		601-204-1012	Author
+
+
+EXECUTION STEPS
+Step 1: Requirements Gathering
+
+1.1 Prioritize Requirements: Collaborate with stakeholders to prioritize requirements based on factors such as business impact, feasibility, and urgency.
+
+1.2 Document Requirements: Document all gathered requirements in a clear and organized manner using tools like spreadsheets, or specialized software.
+
+1.3 Finalize Requirements: Once all stakeholders are satisfied with the proposed solution, finalize the requirements documentation. Ensure that it is comprehensive.
+
+
+Step 2: Creating Feature Branches
+
+2.1 Identify the Feature: Identify the feature or task that you'll be working on. This could be a new feature, a bug fix, or any other unit of work.
+
+2.2 Update the Main Branch: Before creating a feature branch, ensure that your local copy of the main branch is up to date. Pull the latest changes from the remote repository to incorporate any recent updates.
+
+2.3 Choose a Descriptive Name: Choose a descriptive name for your feature branch that reflects the purpose of the work you'll be doing. This could include the feature name, issue number, or a brief description of the task.
+
+2.4 Create the Feature Branch: Use version control system commands such as Git to create a new branch based on the main branch.
+
+
+Step 3: Writing Unit Tests
+3.1	Write Test Cases: Define a set of test cases to validate the behavior of the selected unit under various conditions. Test cases should cover different scenarios, including typical inputs, edge cases, and error conditions. Each test case should consist of:
+     • Setup: Prepare the environment or state necessary for the test.
+     • Execution: Invoke the unit being tested with specific inputs.
+     • Assertion: Verify that the actual output matches the expected outcome.
+
+3.2 Implement Test Code: Write the test code using a testing framework compatible with the programming language and development environment. Popular testing frameworks include JUnit for Java, NUnit for .NET, pytest for Python, and Jasmine for JavaScript. Use the framework's syntax and conventions to define test methods, assertions, and setup/teardown routines.
+
+3.3 Run and Analyze Test Results: Run the unit tests to execute the test cases against the target unit. Analyze the test results to identify any failures or errors. If a test fails, debug the code to determine the root cause of the failure and make necessary corrections to the unit under test or the test case itself.
+
+
+Step 4: Conducting Code Reviews
+4.1 Schedule a Code Review Meeting: Review the code changes carefully, focusing on readability, correctness, performance, security, and maintainability.
+Pay attention to the implementation of new features, modifications to existing functionality, error handling, edge cases, and any potential side effects.
+
+4.2 Provide Constructive Feedback: Offer constructive feedback to the author of the code changes, focusing on areas for improvement.
+
+4.3 Discuss Design Decisions: Engage in discussions with the author and other reviewers to understand the reasoning behind specific design decisions. Evaluate whether the chosen design aligns with the project requirements, architectural guidelines, and coding standards and analyze the design's scalability, extensibility, and potential impact on other parts of the system.
+
+4.4 Address Review Comments: Once feedback has been provided, the author should address the review comments by making necessary revisions to the code.
+Update the codebase, accordingly, addressing each comment or suggestion raised during the code review process.
+
+4.5 Re-review Changes: Review and verify that the changes align with the project's requirements, coding standards, and best practices.
+
+
+Step 5: Merging Changes into the Main Codebase
+5.1 Get Approval for changes: Once all review comments have been addressed and the code changes meet the required standards, approve the changes for merging into the main codebase.
+
+5.2 Merge Changes: Follow the established procedures for merging code changes, whether through pull requests, merge requests, or other version control system mechanisms.
+Ensure that the merged code does not introduce regressions and does not break existing functionality.
+
+
+Step 6: Documentation of new features
+
+6.1 Document Key Details: Record the outcomes of the code review process, including review comments, decisions made, and lessons learned.
+
+6.2 Knowledge Transfer: Use the feedback from code reviews to improve coding practices, foster knowledge sharing, and enhance the team's collective expertise over time.
+
+
+REVISION HISTORY
+Version	Date	Changes Made By	Summary of Changes
+1.0	24-01-16	Navjot Kaur	Initial Release of Document
+1.1	24-01-18	Jorawar Singh	Conducting Code Reviews
+1.2	24-01-21	Gaganpreet Singh	Objectives Updated
+
+
+
+
+
