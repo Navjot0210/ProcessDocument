@@ -96,6 +96,9 @@ Version	    Date	  Changes Made By	Summary of Changes
 1.2	    24-01-21	  Gaganpreet Singh	Objectives Updated
 
 
-
+/*--------------------------------*/
+SUGGESTIONS
+Add screenshots for better understanding
+/*--------------------------------*/
 
 
