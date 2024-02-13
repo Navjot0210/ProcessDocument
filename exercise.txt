@@ -98,7 +98,14 @@ Version	    Date	  Changes Made By	Summary of Changes
 
 /*--------------------------------*/
 SUGGESTIONS
-Add screenshots for better understanding
+This process document is very good(Excellent)
+These are my suggestions...
+-> Add screenshots for better understanding.
+-> Because of the length of the document, you may want to add a short Table of Contents section above the content.
+-> In keeping the type of audience in mind -- I suggest you simplify all the big words.
+-> Try to make your sentences clear and concise so that the audience is not reading for too long and getting confused.
+-> Check for spelling and grammar errors just to be more correct and professional.
+Good Work, Navjot😉
 /*--------------------------------*/
 
 
