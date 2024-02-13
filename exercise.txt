@@ -7,7 +7,7 @@ This document is a standardized procedure for developing new features for the so
 
 APPROVAL TABLE
 
-Version	    Date	  Name	                                     Designation
+Version	Date	       Name	                                   Designation
 1.0	    24-01-16	  Navjot Kaur (chohan.navjot@mitt.ca)	     Author
 1.1	    24-01-20	  Joseph Adoga (adoga.joseph@mitt.ca)	     Reviewer
 1.2	    24-01-21	  Jorawar Singh (singh.jorawar@mitt.ca)      Approver
@@ -90,22 +90,8 @@ Step 6: DOCUMENTATION OF THE NEW FEATURES
 
 
 REVISION HISTORY
-Version	    Date	  Changes Made By	Summary of Changes
+Version	Date	       Changes Made By	   Summary of Changes
 1.0	    24-01-16	  Navjot Kaur	        Initial Release of Document
 1.1	    24-01-18	  Jorawar Singh	        Conducting Code Reviews
 1.2	    24-01-21	  Gaganpreet Singh	Objectives Updated
-
-
-/*--------------------------------*/
-SUGGESTIONS
-This process document is very good(Excellent)
-These are my suggestions...
--> Add screenshots for better understanding.
--> Because of the length of the document, you may want to add a short Table of Contents section above the content.
--> In keeping the type of audience in mind -- I suggest you simplify all the big words.
--> Try to make your sentences clear and concise so that the audience is not reading for too long and getting confused.
--> Check for spelling and grammar errors just to be more correct and professional.
-Good Work, Navjot😉
-/*--------------------------------*/
-
 
