@@ -92,6 +92,6 @@ Step 6: DOCUMENTATION OF THE NEW FEATURES
 REVISION HISTORY
 Version	Date	       Changes Made By	   Summary of Changes
 1.0	    24-01-16	  Navjot Kaur	        Initial Release of Document
-1.1	    24-01-18	  Jorawar Singh	        Conducting Code Reviews
-1.2	    24-01-21	  Gaganpreet Singh	Objectives Updated
+1.1	    24-01-18	  Jorawar Singh	   Conducting Code Reviews
+1.2	    24-01-21	  Gaganpreet Singh	   Objectives Updated
 
